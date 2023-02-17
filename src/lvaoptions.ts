@@ -3,6 +3,7 @@ export class LvaOptions {
 		public coursenumber: number,
 		public registrationpossiblethroughentryofNumbers: boolean,
 		public lvaname: string,
+		public groupname: string,
 		public lvatype: LvaType
 	) {
 

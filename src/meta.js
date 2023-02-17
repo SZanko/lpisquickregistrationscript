@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        LPIS Quick Registration Script
 // @namespace   Violentmonkey Scripts
-// @description This is a userscript.
+// @description Script to help you get into a course you want.
 // @match       https://lpis.wu.ac.at/*
 // @grant       GM_addStyle
 // @version     process.env.VERSION
