@@ -21,4 +21,3 @@ const panel = VM.getPanel({
 panel.wrapper.style.top = '100px';
 panel.setMovable(true);
 panel.show();
-
